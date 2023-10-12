@@ -4,9 +4,6 @@
 <!--h1 without bottom border-->
 <div>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Vansh+Baghel">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</div>
 </div>
 
 <!--h2 without bottom border-->
