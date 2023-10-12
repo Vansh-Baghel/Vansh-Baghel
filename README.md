@@ -44,7 +44,7 @@ _Track my on either Problem solving websites or on GitHub_
 1. [Pinko](https://www.instagram.com/pinkoofficial/), an Italian Fashion Brand, where I (with a team) have built a complete website where people could buy their products using Web3 tokens by connecting their wallets using Metamask, or could mint the collection of products into their account.
 2. [Dotsei Domains](https://twitter.com/dotseidomains) which is a solution to make Web3 addresses easy. Here I built a complete website for various activities, which will be revealed soon by the company!! Few features will be made public soon officially, here's its link: [Dotsei](https://dotsei.me/).
 
-- 👨‍💻 Have solved **more than 330 questions** of DSA collectively on leetcode, gfg, and codingninjas. I believe in quality questions, rather than quantity, and have revised good questions multiple times.
+- 👨‍💻 Have solved **more than 400 questions** of DSA collectively on leetcode, gfg, and codingninjas. I believe in quality questions, rather than quantity, and have revised good questions multiple times.
   Check out my profile: [Leetcode](https://leetcode.com/vansh_baghel/) , [GFG](https://auth.geeksforgeeks.org/user/vanshbag6rmo), [CodingNinjas](https://www.codingninjas.com/studio/profile/db8fdbf1-2f1c-48ea-9764-4c13332e4d57)
 
 - 🤞 I've been **contributing to the community** by being a part of [Google](https://twitter.com/Google) and [Microsoft](https://twitter.com/Microsoft) programs, which are, GDSC (Google Developer Student Clubs) and MLSA (Microsoft Learn Student Ambassador).
