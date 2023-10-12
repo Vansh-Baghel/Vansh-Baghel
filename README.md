@@ -2,16 +2,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello 👋, My name's Vansh</h1></summary>
-  </ul>
+<div>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&vCenter=false&color=%23FFFFFF&size=40&height=200&width=800&lines=Hello!+My+Name's+Vansh+Baghel">
+  <div style="display: flex; justify-content: center; align-items: center; margin-top: -3rem">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </div>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 </div>
 
 <!--h2 without bottom border-->
