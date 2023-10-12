@@ -3,7 +3,7 @@
 
 <!--h1 without bottom border-->
 <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Vansh+Baghel">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&CENTER=true&vCenter=false&color=%23FFFFFF&size=40&height=100&width=800&lines=Hello!+My+Name's+Vansh+Baghel+👋">
 </div>
 
 <!--h2 without bottom border-->
