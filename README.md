@@ -13,10 +13,8 @@
   </ul>
 </div>
 
-My name is Vansh Baghel, a 2025 batch pursuing B.Tech IT. A software engineer who likes to code and solve issues of the real world. I am not just contributing to the code used in real world, but also to upskill the technical journey of other folks.
-I do like to workout and improve myself each and every day, over and over again.
-
-_Track my on either Problem solving websites or on GitHub_
+My name is Vansh Baghel, a 2025 batch pursuing B.Tech IT. A software engineer who likes to code and solve issues of the real world. Not just a regular developer, if you have a startup idea, shoot me up!! Glad to be a part of other's technical journey by hosting and conducting technical sessions, hackathon, tech talks, etc. 
+<br /> _Wait I heard you, What, was that too much technical?_ Okay so non-technically, I love to workout and read books, hit me up if you do any of it!! 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -36,12 +34,12 @@ _Track my on either Problem solving websites or on GitHub_
 1. [Pinko](https://www.instagram.com/pinkoofficial/), an Italian Fashion Brand, where I (with a team) have built a complete website where people could buy their products using Web3 tokens by connecting their wallets using Metamask, or could mint the collection of products into their account.
 2. [Dotsei Domains](https://twitter.com/dotseidomains) which is a solution to make Web3 addresses easy. Here I built a complete website for various activities, which will be revealed soon by the company!! Few features will be made public soon officially, here's its link: [Dotsei](https://dotsei.me/).
 
-- 👨‍💻 Have solved **more than 400 questions** of DSA collectively on leetcode, gfg, and codingninjas. I believe in quality questions, rather than quantity, and have revised good questions multiple times.
+- 👨‍💻 Have solved **more than 750 questions** of DSA collectively on leetcode, gfg, and codingninjas. I believe in quality questions, rather than quantity, and have revised good questions multiple times.
   Check out my profile: [Leetcode](https://leetcode.com/vansh_baghel/) , [GFG](https://auth.geeksforgeeks.org/user/vanshbag6rmo), [CodingNinjas](https://www.codingninjas.com/studio/profile/db8fdbf1-2f1c-48ea-9764-4c13332e4d57)
 
-- 🤞 I've been **contributing to the community** by being a part of [Google](https://twitter.com/Google) and [Microsoft](https://twitter.com/Microsoft) programs, which are, GDSC (Google Developer Student Clubs) and MLSA (Microsoft Learn Student Ambassador).
+- 🤞 I've been **contributing to the community** by being a part of [Google](https://twitter.com/Google) and [Microsoft](https://twitter.com/Microsoft) programs, which are, GDSC (Google Developer Student Clubs), GDG (Google Developer Groups) and MLSA (Microsoft Learn Student Ambassador), and have hosted and volunteered more than 40 technical sessions, workshops, hackathons, etc.
 
-- As the **GDSC Lead** for 2023-24, I've been organizing both offline and online tech sessions in collaboration with other universities. We bring in **industry experts** to help students explore **real-world applications** of new technologies, fostering a broader perspective.
+- As the **GDSC Lead** for 2023-24, I've been organizing both offline and online tech sessions in collaboration with other universities. We bring in **industry experts** to help students explore **real-world applications** of new technologies, fostering a broader perspective. 
 
 - As an MLSA, I've been collaborating globally, hosting impactful technical sessions to teach diverse technologies and connect with interesting individuals.
 
@@ -62,5 +60,5 @@ _Track my on either Problem solving websites or on GitHub_
   </ul>
 </div>
 
-- Resume: https://vansh-baghel.github.io/resume/
+- Resume: [Click here!](https://shorturl.at/tA458)
 - Other socials: https://linktr.ee/vansh_baghel
